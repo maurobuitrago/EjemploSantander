@@ -1,4 +1,8 @@
 n1 = 5;
 n2 = 10;
-
+n3 = 2
 int Resta= n1-n2;
+printl resta;
+
+int resta= resta-n3;
+
